@@ -1,0 +1,23 @@
+body {
+	text-align:center;
+	background-image: url(../img/cryingjordan.jpg);
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.headingTitle {
+	font-size:90px;
+}
+
+.tshirt {
+	margin:20px 0;
+}
+
+h1.headingTitle{
+ color: royalblue;
+ font-family: 'Fjalla One', sans-serif;
+}
+
+#thisone{
+	color:pink;
+}
